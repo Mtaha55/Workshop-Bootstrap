@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     background-color: rgb(205, 158, 18);
     text-align: center;
-    font-size: 1.25rem; /* Increase the base font size */
+    font-size: 20; /* Increase the base font size */
     font-weight: bold; /* Make the base font weight bold */
 }
 
@@ -11,7 +11,7 @@ h1 {
     margin-bottom: 30px;
     background-color: rgb(81, 171, 174);
     text-align: center;
-    font-size: 2.5rem; /* Increase the heading font size */
+    font-size: 20; /* Increase the heading font size */
 }
 
 .navbar {
@@ -20,7 +20,7 @@ h1 {
 }
 
 .navbar-nav .nav-item .nav-link {
-    font-size: 1.25rem; /* Increase the font size of the navigation links */
+    font-size: 20; /* Increase the font size of the navigation links */
     font-weight: bold; /* Make the navigation links bold */
 }
 
@@ -55,7 +55,7 @@ h1 {
 }
 
 .container.text-center {
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
